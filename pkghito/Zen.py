@@ -2,7 +2,7 @@ __author__ = 'Renato'
 
 from time import sleep
 from pressreleasev2 import press_release, press, release
-from testHook3v2 import execute
+from Hook3v2 import execute
 
 
 # print("3:", hex(17179869235), hex(17179869235>>32), hex(17179869235%256))
