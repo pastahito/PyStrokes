@@ -54,3 +54,4 @@ Temporary Items
 
 pkghito/*.png
 pkghito/**/__pycache__/
+test*.py
